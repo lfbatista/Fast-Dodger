@@ -2,7 +2,7 @@
 
 ![Screenshot](http://i.imgur.com/RM7mc03.png)
 
-To do:
+**To do**
 - Add better graphics
 - Add better SoundFX
 - Support to multiple screens sizes
