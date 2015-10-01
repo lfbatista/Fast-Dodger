@@ -1,0 +1,15 @@
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Release\com.ipg.fastdogder.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Release\com.ipg.fastdogder.pdb
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Release\com.ipg.fastdogder.apk
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Release\com.ipg.fastdogder-Signed.apk
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Release\MonoGame.Framework.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Release\Lidgren.Network.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\com.ipg.fastdogder.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\com.ipg.fastdogder.pdb
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\bin\com.ipg.fastdogder.apk
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\res\values\strings.xml
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\res\drawable\icon.png
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\res\drawable\splash.png
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\res\values\styles.xml
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\R.cs.flag
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\uploadflags.txt

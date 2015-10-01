@@ -1,0 +1,16 @@
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Debug\com.ipg.fastdogder.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Debug\com.ipg.fastdogder.pdb
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Debug\com.ipg.fastdogder.apk
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Debug\com.ipg.fastdogder-Signed.apk
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Debug\MonoGame.Framework.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\bin\Debug\Lidgren.Network.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\com.ipg.fastdogder.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\com.ipg.fastdogder.pdb
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\android\bin\com.ipg.fastdogder.apk
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\res\values\strings.xml
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\res\drawable\icon.png
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\res\drawable\splash.png
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\res\values\styles.xml
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\R.cs.flag
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\uploadflags.txt
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\com.ipg.fastdogder.csprojResolveAssemblyReference.cache

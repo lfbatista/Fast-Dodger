@@ -1,0 +1,10 @@
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\assets\com.ipg.fastdogder.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\assets\Mono.Android.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\assets\MonoGame.Framework.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\assets\mscorlib.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\assets\OpenTK.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\assets\System.Core.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\assets\System.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\assets\System.Xml.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\assets\Lidgren.Network.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Release\android\assets\System.Runtime.Serialization.dll

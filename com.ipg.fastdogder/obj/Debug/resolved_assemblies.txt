@@ -1,0 +1,11 @@
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\com.ipg.fastdogder.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\MonoGame.Framework.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\mscorlib.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\OpenTK.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\System.Core.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\System.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\System.Xml.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\Lidgren.Network.dll
+C:\Users\jei\Desktop\d\com.ipg.fastdogder\com.ipg.fastdogder\obj\Debug\assemblies\System.Runtime.Serialization.dll
